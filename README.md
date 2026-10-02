@@ -5,7 +5,7 @@ It allows developers to explore different technologies and create their own pers
 
 ## 🚀 Live Demo
 
-[[Live Site](https://dev-stack-dun.vercel.app/)
+[Live Site](https://dev-stack-dun.vercel.app/)
 
 ## 📦 GitHub Repository
 
