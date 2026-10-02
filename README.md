@@ -5,11 +5,11 @@ It allows developers to explore different technologies and create their own pers
 
 ## 🚀 Live Demo
 
-[Live Site](#)
+[[Live Site](https://dev-stack-dun.vercel.app/)
 
 ## 📦 GitHub Repository
 
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/sabermahmud/dev-stack-app)
 
 ---
 
